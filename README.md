@@ -1,1 +1,1 @@
-Web App to track the position of ISS and inform user when visible overhead
+Web app to track the position of ISS and inform user when visible overhead
