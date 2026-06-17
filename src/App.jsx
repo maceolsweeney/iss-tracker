@@ -1,4 +1,5 @@
 import './App.css'
+import IssMap from './components/IssMap'
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
         <p className="tagline">Live position &amp; visible pass predictions</p>
       </header>
       <main className="app-main">
-        {/* Map + pass list arrive in later chunks */}
+        <IssMap />
       </main>
     </div>
   )
